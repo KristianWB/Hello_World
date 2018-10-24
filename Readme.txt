@@ -1,3 +1,9 @@
+Introduction to Java Programming v.11 
+Chapter ###
+Listing or Exercise ###
+dd-mm-yyyy
+WITT
+
 Name of projekt is: Hello world
 
 No prerequestes other than an IDE (ie. Intellij)
