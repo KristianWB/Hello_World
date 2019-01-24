@@ -1,6 +1,5 @@
 Introduction to Java Programming v.11 
 Chapter ###
-Listing ###
 Exercise ###
 dd-mm-yyyy
 WITT
